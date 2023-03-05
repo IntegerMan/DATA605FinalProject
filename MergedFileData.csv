@@ -1,5 +1,5 @@
-,hash,message,author_name,author_email,author_date,author_tz,committer_name,committer_email,committer_date,committer_tz,in_main,is_merge,num_deletes,num_inserts,net_lines,num_files,branches,filename_x,old_path,new_path,project_name,project_path,parents,relative_path,project,path,filename_y,ext,lines
-0,f0e639af5ffdc839aae8e65d19b5a9a1f0db634a,Initial commit,dotnet-bot,dotnet-bot@microsoft.com,2018-05-03 17:22:00-07:00,25200,Immo Landwerth,immol@microsoft.com,2018-05-03 17:22:00-07:00,25200,True,False,0,382168,382168,868,main,build.sh,,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,,build.sh,Native,,build.sh,.sh,179
+,hash,message,author_name,author_email,author_date,author_tz,committer_name,committer_email,committer_date,committer_tz,in_main,is_merge,num_deletes,num_inserts,net_lines,num_files,branches,old_path,new_path,project_name,project_path,parents,relative_path,project,path,filename,ext,lines
+0,f0e639af5ffdc839aae8e65d19b5a9a1f0db634a,Initial commit,dotnet-bot,dotnet-bot@microsoft.com,2018-05-03 17:22:00-07:00,25200,Immo Landwerth,immol@microsoft.com,2018-05-03 17:22:00-07:00,25200,True,False,0,382168,382168,868,main,,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,,build.sh,Native,,build.sh,.sh,179
 1,76cb2cdf5cc8b6c88ca44b8969153836e589df04,"Get a working build (#1)
 
 * Set missing executable bits
@@ -10,12 +10,12 @@
 
 * Respond to PR feedback
 
-* Reformat test data README file to use quoting block.",Sandy Armstrong,sanfordarmstrong@gmail.com,2018-05-04 12:47:21-07:00,25200,Eric Erhardt,eric.erhardt@microsoft.com,2018-05-04 14:47:21-05:00,18000,True,False,27,1749,1722,23,main,build.sh,build.sh,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,f0e639af5ffdc839aae8e65d19b5a9a1f0db634a,build.sh,Native,,build.sh,.sh,179
+* Reformat test data README file to use quoting block.",Sandy Armstrong,sanfordarmstrong@gmail.com,2018-05-04 12:47:21-07:00,25200,Eric Erhardt,eric.erhardt@microsoft.com,2018-05-04 14:47:21-05:00,18000,True,False,27,1749,1722,23,main,build.sh,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,f0e639af5ffdc839aae8e65d19b5a9a1f0db634a,build.sh,Native,,build.sh,.sh,179
 2,ed577123389bce76909b24ce7f7a5693549333de,"Fixes build error when path contains space on Linux (#247)
 
-Spaces in build scripts now properly quoted.",Morten,tincann@users.noreply.github.com,2018-05-30 18:36:52+02:00,-7200,Tom Finley,tfinley@gmail.com,2018-05-30 09:36:52-07:00,25200,True,False,14,14,0,4,main,build.sh,build.sh,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,0233d710749c67bf8facfb98e5492fb2b70e95b4,build.sh,Native,,build.sh,.sh,179
-3,7ba62c4cbb9b2355a1a09fec3e86e12fabaeb472,ci test build,Dmitry Akhutin,dmitrya@microsoft.com,2019-01-14 22:38:18-08:00,28800,Dmitry Akhutin,dmitrya@microsoft.com,2019-01-14 22:38:18-08:00,28800,True,False,0,1583,1583,32,main,build.sh,,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,8481317689d06e47b82e3e9dac8b8ab873ef5109,build.sh,Native,,build.sh,.sh,179
-4,9ea19bd2d3b5a443c441d6b1536bb03ddd676f80,"Make build.sh, init-tools.sh, & run.sh executable on OSX/Linux (#225)",Justin Ormont,justinormont@users.noreply.github.com,2019-02-26 09:37:52-08:00,28800,srsaggam,41802116+srsaggam@users.noreply.github.com,2019-02-26 09:37:52-08:00,28800,True,False,0,0,0,3,main,build.sh,build.sh,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,8463bae5e4a867968304d4bca57450f904cc285e,build.sh,Native,,build.sh,.sh,179
+Spaces in build scripts now properly quoted.",Morten,tincann@users.noreply.github.com,2018-05-30 18:36:52+02:00,-7200,Tom Finley,tfinley@gmail.com,2018-05-30 09:36:52-07:00,25200,True,False,14,14,0,4,main,build.sh,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,0233d710749c67bf8facfb98e5492fb2b70e95b4,build.sh,Native,,build.sh,.sh,179
+3,7ba62c4cbb9b2355a1a09fec3e86e12fabaeb472,ci test build,Dmitry Akhutin,dmitrya@microsoft.com,2019-01-14 22:38:18-08:00,28800,Dmitry Akhutin,dmitrya@microsoft.com,2019-01-14 22:38:18-08:00,28800,True,False,0,1583,1583,32,main,,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,8481317689d06e47b82e3e9dac8b8ab873ef5109,build.sh,Native,,build.sh,.sh,179
+4,9ea19bd2d3b5a443c441d6b1536bb03ddd676f80,"Make build.sh, init-tools.sh, & run.sh executable on OSX/Linux (#225)",Justin Ormont,justinormont@users.noreply.github.com,2019-02-26 09:37:52-08:00,28800,srsaggam,41802116+srsaggam@users.noreply.github.com,2019-02-26 09:37:52-08:00,28800,True,False,0,0,0,3,main,build.sh,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,8463bae5e4a867968304d4bca57450f904cc285e,build.sh,Native,,build.sh,.sh,179
 5,c2f8ed5c9c478194fa6c7e387bc9f8fc43e4e0bc,"Merge arcade to master (#5525)
 
 * Initial commit for Arcade migration
@@ -195,4 +195,4 @@ Co-authored-by: Michael Sharp <51342856+michaelgsharp@users.noreply.github.com>
 Co-authored-by: Mustafa Bal <5262061+mstfbl@users.noreply.github.com>
 Co-authored-by: Frank Dong <frdong@microsoft.com>
 Co-authored-by: Michael Sharp <misharp@microsoft.com>
-Co-authored-by: Antonio Velázquez <38739674+antoniovs1029@users.noreply.github.com>",Harish Kulkarni,harishsk@users.noreply.github.com,2020-12-03 01:13:27+00:00,0,GitHub,noreply@github.com,2020-12-02 17:13:27-08:00,28800,True,False,1265,14109,12844,321,main,build.sh,build.sh,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,d257b880e5534d34ecf6be4570e538be100dd80c,build.sh,Native,,build.sh,.sh,179
+Co-authored-by: Antonio Velázquez <38739674+antoniovs1029@users.noreply.github.com>",Harish Kulkarni,harishsk@users.noreply.github.com,2020-12-03 01:13:27+00:00,0,GitHub,noreply@github.com,2020-12-02 17:13:27-08:00,28800,True,False,1265,14109,12844,321,main,build.sh,build.sh,machinelearning,C:\Users\Admin\AppData\Local\Temp\tmpvezg8ml9\machinelearning,d257b880e5534d34ecf6be4570e538be100dd80c,build.sh,Native,,build.sh,.sh,179
