@@ -1,319 +1,188 @@
-Column1,city,state,country,email,name,timezone,timezone_hours
-2508,Tokyo,,Japan,11079437+xenoverse-us@users.noreply.github.com,xenoverse,28800,8
-91,Eindoven,,Netherlands,15279990+pkulikov@users.noreply.github.com,Petr Kulikov,-7200,-2
-1829,Philadelphia,PA,United States,16148007+NeoXtreem@users.noreply.github.com,Jason Payne,-7200,-2
-2606,New Delhi,,India,18474647+dakersnar@users.noreply.github.com,Drew Kersnar,18000,5
-1846,Alexandria,,Egypt,31348972+Youssef1313@users.noreply.github.com,Youssef Victor,-7200,-2
-1931,Melbourne,,Australia,31937616+JakeRadMSFT@users.noreply.github.com,Jake,28800,8
-2583,Melbourne,,Australia,31937616+JakeRadMSFT@users.noreply.github.com,Jake,25200,7
-2647,Melbourne,,Australia,31937616+JakeRadMSFT@users.noreply.github.com,Jake,36000,10
-14,Bellevue,WA,United States,31997351+OliaG@users.noreply.github.com,Olia Gavrysh,25200,7
-2502,Indianapolis,IN,United States,32547466+shaliniiit@users.noreply.github.com,shaliniiit,-19080,-5.3
-801,Beijing,,China,33269336+vinodshanbhag@users.noreply.github.com,vinodshanbhag,28800,8
-1396,Beijing,,China,33269336+vinodshanbhag@users.noreply.github.com,vinodshanbhag,25200,7
-21,Abu Dhabi,,United Arab Emirates,34033296+mfaticaearnin@users.noreply.github.com,mfaticaearnin,14400,4
-2490,London,,United Kingdom,35737434+r0ss88@users.noreply.github.com,r0ss88,-3600,-1
-2386,London,,United Kingdom,36968548+LeoGaunt@users.noreply.github.com,Leo Gaunt,0,0
-213,Seattle,WA,United States,37886197+montebhoover@users.noreply.github.com,montebhoover,25200,7
-422,Seattle,WA,United States,37886197+montebhoover@users.noreply.github.com,Monte Hoover,25200,7
-532,Seattle,WA,United States,37886197+montebhoover@users.noreply.github.com,Monte Hoover,28800,8
-2416,TBD,TBD,United States,37982283+4201104140@users.noreply.github.com,Phan Tấn Tài,-25200,-7
-58,Bangkok,,Thailand,38017604+george-microsoft@users.noreply.github.com,George Montanez,25200,7
-2,Hyperabad,,India,38438266+zeahmed@users.noreply.github.com,Zeeshan Ahmed,25200,7
-728,Hyperabad,,India,38438266+zeahmed@users.noreply.github.com,Zeeshan Ahmed,28800,8
-1844,Bellevue,WA,United States,38739674+antoniovs1029@users.noreply.github.com,Antonio Velázquez,25200,7
-1925,Bellevue,WA,United States,38739674+antoniovs1029@users.noreply.github.com,Antonio Velázquez,28800,8
-2342,Bellevue,WA,United States,38739674+antoniovs1029@users.noreply.github.com,Antonio Velázquez,18000,5
-2372,Bellevue,WA,United States,38739674+antoniovs1029@users.noreply.github.com,Antonio Velázquez,21600,6
-571,New Delhi,,India,40869791+van-tienhoang@users.noreply.github.com,van-tienhoang,18000,5
-182,Redmond,WA,United States,41337831+Zruty0@users.noreply.github.com,Pete Luferenko,25200,7
-527,Redmond,WA,United States,41337831+Zruty0@users.noreply.github.com,Pete Luferenko,28800,8
-466,Bordeaux,,France,41372672+malik97160@users.noreply.github.com,malik97160,-7200,-2
-816,Redmond,WA,United States,41802116+srsaggam@users.noreply.github.com,srsaggam,28800,8
-1281,Redmond,WA,United States,41802116+srsaggam@users.noreply.github.com,srsaggam,25200,7
-1306,Redmond,WA,United States,41802116+srsaggam@users.noreply.github.com,Srujan Saggam,25200,7
-1594,Redmond,WA,United States,41802116+srsaggam@users.noreply.github.com,Srujan Saggam,36000,10
-419,Seattle,WA,United States,42353187+vaeksare@users.noreply.github.com,Vadim Eksarevskiy,25200,7
-608,Seattle,WA,United States,42353187+vaeksare@users.noreply.github.com,Vadim Eksarevskiy,28800,8
-2503,Beijing,,China,42748379+dotnet-maestro[bot]@users.noreply.github.com,dotnet-maestro[bot],28800,8
-2533,Bangkok,,Thailand,42748379+dotnet-maestro[bot]@users.noreply.github.com,dotnet-maestro[bot],25200,7
-384,TBD,,TBD,43828096+dzban2137@users.noreply.github.com,dzban2137,-7200,-2
-796,Beijing,,China,43974253+daholste@users.noreply.github.com,daholste,28800,8
-1292,Bangkok,,Thailand,43974253+daholste@users.noreply.github.com,daholste,25200,7
-789,Bellevue,WA,United States,45412678+Dmitry-A@users.noreply.github.com,Dmitry Akhutin,28800,8
-1404,Bellevue,WA,United States,45412678+Dmitry-A@users.noreply.github.com,Dmitry Akhutin,25200,7
-2443,Weehawken,NJ,United States,46974588+luisquintanilla@users.noreply.github.com,Luis Quintanilla,14400,4
-2501,Weehawken,NJ,United States,46974588+luisquintanilla@users.noreply.github.com,Luis Quintanilla,18000,5
-1711,Redmond,WA,United States,50131889+mengaims@users.noreply.github.com,mengaims,-28800,-8
-1728,Boston,MA,United States,51342856+michaelgsharp@users.noreply.github.com,Michael Sharp,25200,7
-1948,Boston,MA,United States,51342856+michaelgsharp@users.noreply.github.com,Michael Sharp,28800,8
-2470,Boston,MA,United States,51342856+michaelgsharp@users.noreply.github.com,Michael Sharp,21600,6
-1747,Bellevue,WA,United States,52221015+sayanshaw24@users.noreply.github.com,Sayan Shaw,25200,7
-2196,San Francisco,CA,United States,5262061+mstfbl@users.noreply.github.com,Mustafa Bal,25200,7
-2369,San Francisco,CA,United States,5262061+mstfbl@users.noreply.github.com,Mustafa Bal,28800,8
-2383,San Francisco,CA,United States,5262061+mstfbl@users.noreply.github.com,Mustafa Bal,-10800,-3
-2259,New York,NY,United States,52801275+wangyems@users.noreply.github.com,Ye Wang,25200,7
-1826,Bangkok,,Thailand,54084812+harshithapv@users.noreply.github.com,harshithapv,25200,7
-1914,London,,United Kingdom,54084812+harshithapv@users.noreply.github.com,harshithapv,0,0
-1840,Denver,CO,United States,54910472+bpstark@users.noreply.github.com,Brian Stark,25200,7
-1927,Denver,CO,United States,54910472+bpstark@users.noreply.github.com,Brian Stark,28800,8
-1850,Bangkok,,Thailand,55860649+frank-dong-ms@users.noreply.github.com,frank-dong-ms,25200,7
-1926,Beijing,,China,55860649+frank-dong-ms@users.noreply.github.com,frank-dong-ms,28800,8
-2494,TBD,TBD,TBD,59436970+CallumMcLoughlin@users.noreply.github.com,Callum McLoughlin,-46800,-13
-2068,New Delhi,,India,59544150+deanna-cs@users.noreply.github.com,deanna-cs,18000,5
-2484,TBD,,TBD,60738812+martintomasek@users.noreply.github.com,martintomasek,-7200,-2
-2240,Redmond,WA,United States,61308292+suxi-ms@users.noreply.github.com,Shakira Sun,-28800,-8
-2517,Redmond,WA,United States,61439577+GitHubPang@users.noreply.github.com,GitHubPang,-28800,-8
-2349,Bangkok,,Thailand,62913657+ttstanley@users.noreply.github.com,ttstanley,25200,7
-2542,TBD,,TBD,83004874+mzasov@users.noreply.github.com,mzasov,-10800,-3
-399,TBD,,TBD,aaronmgroome@gmail.com,Aaron Groome,-3600,-1
-50,Redmond,WA,United States,aasthan@microsoft.com,Ankit Asthana,25200,7
-177,Seattle,WA,United States,abgoswam@gmail.com,Abhishek Goswami,25200,7
-518,Seattle,WA,United States,abgoswam@gmail.com,Abhishek Goswami,0,0
-578,Seattle,WA,United States,abgoswam@gmail.com,Abhishek Goswami,28800,8
-227,Dgansk,,Poland,adam.sitnik@gmail.com,Adam Sitnik,-7200,-2
-597,Dgansk,,Poland,adam.sitnik@gmail.com,Adam Sitnik,28800,8
-1917,Dgansk,,Poland,adam.sitnik@microsoft.com,Adam Sitnik,28800,8
-2617,Bangkok,,Thailand,adiaaida@gmail.com,Michelle McDaniel,25200,7
-1831,Cracow,,Poland,adishoneee@gmail.com,Adrian Nakonieczny,-7200,-2
-2414,Kyiv,,Ukraine,agarskyivan@gmail.com,Ivan Agarský,-3600,-1
-2456,Kyiv,,Ukraine,agarskyivan@gmail.com,Ivan Agarský,-7200,-2
-170,London,,United Kingdom,agoswami@microsoft.com,Abhishek Goswami,0,0
-1855,Bangkok,,Thailand,aibhanda@microsoft.com,ashbhandare,25200,7
-1922,Beijing,,China,aibhanda@microsoft.com,ashbhandare,28800,8
-886,London,,United Kingdom,aimisterrible@gmail.com,kilick,0,0
-2415,Kyiv,,Ukraine,akmetik@gmail.com,Andrej Kmetík,-3600,-1
-570,Kyiv,,Ukraine,alenalexa@gmail.com,Alexander Alexeev,-10800,-3
-2227,Abu Dhabi,,United Arab Emirates,alexander.slotte@gmail.com,Alexander Slotte,14400,4
-2614,Bangkok,,Thailand,alperovi@microsoft.com,Alex Perovich,25200,7
-351,Indianapolis,IN,United States,amiteshshenoy11@gmail.com,amiteshenoy,-19080,-5.3
-2668,Budapest,,Hungary,andras.fuchs@gmail.com,Andras Fuchs,-3600,-1
-1283,Boston,MA,United States,andrewlkittredge@gmail.com,Andrew Kittredge,14400,4
-29,Seattle,WA,United States,anirudhagnihotry098@gmail.com,Anirudh Agnihotry,-19080,-5.3
-262,Seattle,WA,United States,anirudhagnihotry098@gmail.com,Anirudh Agnihotry,25200,7
-598,Seattle,WA,United States,anirudhagnihotry098@gmail.com,Anirudh Agnihotry,28800,8
-247,Seattle,WA,United States,arpagnon@microsoft.com,Artidoro Pagnoni,25200,7
-529,Seattle,WA,United States,arpagnon@microsoft.com,Artidoro Pagnoni,28800,8
-732,Seattle,WA,United States,arpagnon@microsoft.com,Artidoro Pagnoni,-3600,-1
-1453,Seattle,WA,United States,arpagnon@microsoft.com,Artidoro Pagnoni,-7200,-2
-1843,Bangkok,,Thailand,ash.bhandare@gmail.com,ashbhandare,25200,7
-148,Kharkiv,,Ukraine,ashkariel.eter@gmail.com,Joshua Light,25200,7
-2433,Ekaterinburg,,Russia,asmirnov@hazeltree.com,Aleksei Smirnov,-10800,-3
-1862,San Francisco,CA,United States,balmustafa117@gmail.com,Mustafa Bal,25200,7
-2010,San Francisco,CA,United States,balmustafa117@gmail.com,Mustafa Bal,28800,8
-2046,San Francisco,CA,United States,balmustafa117@gmail.com,Mustafa Bal,-10800,-3
-2605,Chicago,IL,United States,beccam@microsoft.com,Becca McHenry,18000,5
-2660,Chicago,IL,United States,beccam@microsoft.com,Becca McHenry,21600,6
-385,Jerusalem,,Israel,bene@post.bgu.ac.il,Ben Eyal,-10800,-3
-1882,Beijing,,China,bigmiao.zhang@gmail.com,Xiaoyun Zhang,25200,7
-2017,Beijing,,China,bigmiao.zhang@gmail.com,Xiaoyun Zhang,28800,8
-2446,Bangkok,,Thailand,brachtma@microsoft.com,Bri Achtman,25200,7
-2478,New Delhi,,India,brachtma@microsoft.com,Bri Achtman,18000,5
-159,Redmond,WA,United States,cesardl@microsoft.com,Cesar De la Torre Llorente,25200,7
-166,Redmond,WA,United States,cesardl@microsoft.com,Cesar De la Torre,25200,7
-1135,Redmond,WA,United States,cesardl@microsoft.com,Cesar De la Torre,28800,8
-2521,London,,United Kingdom,colombod@me.com,Diego Colombo,0,0
-622,TBD,,TBD,contact@struller-baumann.de,Thomas Struller-Baumann,-3600,-1
-439,Belo Horizonte,,Brazil,contato@nandaleite.com,Fernanda Leite,10800,3
-156,New Delhi,,India,dan-drews@users.noreply.github.com,dan-drews,18000,5
-2499,TBD,,TBD,daniel.martensson89@outlook.com,Daniel Mårtensson,-3600,-1
-5,Jackson,WY,United States,danmose@microsoft.com,Dan Moseley,25200,7
-549,Beijing,,China,danmose@microsoft.com,Dan Moseley,28800,8
-483,Abu Dhabi,,United Arab Emirates,danmose@microsoft.com,Dan Moseley,14400,4
-1658,New Delhi,,India,david.boland@makingwaves.com,David Boland,18000,5
-1257,TBD,,TBD,dev.potapy4@hotmail.com,Nikita Potapenko,-7200,-2
-2528,London,,United Kingdom,dicolomb@microsoft.com,Diego Colombo,0,0
-1842,Bangkok,,Thailand,dkeren@seas.upenn.edu,Keren Fuentes,25200,7
-1940,Beijing,,China,dkeren@seas.upenn.edu,Keren Fuentes,28800,8
-780,Beijing,,China,dmitrya@microsoft.com,Dmitry Akhutin,28800,8
-1488,Bangkok,,Thailand,dmitrya@microsoft.com,Dmitry Akhutin,25200,7
-1790,Bangkok,,Thailand,dmitrya@microsoft.com,redmond\dmitrya,25200,7
-0,Redmond,WA,United States,dotnet-bot@microsoft.com,dotnet-bot,25200,7
-198,TBD,,TBD,dsyme@users.noreply.github.com,Don Syme,-3600,-1
-2295,Anchorage,AK,United States,e175774@ie.u-ryukyu.ac.jp,Koki Nishihara,-32400,-9
-1807,New Delhi,,India,eerhardt@microsoft.com,Eric Erhardt,18000,5
-1745,Bangkok,,Thailand,eerhardt@microsoft.com,Eric Erhardt,25200,7
-416,Abu Dhabi,,United Arab Emirates,elbruno@users.noreply.github.com,El Bruno,14400,4
-1072,New Delhi,,India,elbruno@users.noreply.github.com,El Bruno,18000,5
-802,Redmond,WA,United States,endintiers@users.noreply.github.com,Chris Hewitt,-28800,-8
-13,Bismark,ND,United States,eric.erhardt@microsoft.com,Eric Erhardt,18000,5
-235,Bangkok,,Thailand,eric.erhardt@microsoft.com,Eric Erhardt,25200,7
-542,Dhakar,,Senegal,eric.erhardt@microsoft.com,Eric Erhardt,21600,6
-630,London,,United Kingdom,eric.erhardt@microsoft.com,Eric Erhardt,0,0
-2410,Beijing,,China,ericstj@microsoft.com,Eric StJohn,28800,8
-2430,Bangkok,,Thailand,ericstj@microsoft.com,Eric StJohn,25200,7
-331,Redmond,WA,United States,feiyun0112@gmail.com,feiyun0112,-28800,-8
-1761,TBD,,TBD,flash2048@gmail.com,Andrei Amialchenia,-10800,-3
-2618,Redmond,WA,United States,FranklinWhale@users.noreply.github.com,Franklin Tse,-28800,-8
-2013,Beijing,,China,frdong@microsoft.com,Frank Dong,28800,8
-133,TBD,,TBD,gabriel.bico@gmail.com,Gabriel Monteiro Nepomuceno,-3600,-1
-10,San Francisco,CA,United States,galoshri@gmail.com,Gal Oshri,25200,7
-525,Beijing,,China,galoshri@gmail.com,Gal Oshri,28800,8
-103,Bangkok,,Thailand,ganinz@hotmail.com,Gani Nazirov,25200,7
-530,Beijing,,China,ganinz@hotmail.com,Gani Nazirov,28800,8
-2564,TBD,,TBD,georgiou.ioannis82@gmail.com,gi82,-7200,-2
-2385,New Delhi,,India,github@deboever.us,Jason DeBoever,18000,5
-31,Kirkland,WA,United States,github@weimo.de,Markus Weimer,25200,7
-3,Bangkok,,Thailand,glebk@microsoft.com,Gleb K,25200,7
-2032,Beijing,,China,gopalv@microsoft.com,Gopal Vashishtha,28800,8
-2183,Bangkok,,Thailand,gopalv@microsoft.com,Gopal Vashishtha,25200,7
-2213,Redmond,WA,United States,guolin.ke@outlook.com,Guolin Ke,-28800,-8
-1294,London,,United Kingdom,gusarov.email@gmail.com,Eugene,0,0
-1740,Bangkok,,Thailand,harishsk@users.noreply.github.com,Harish Kulkarni,25200,7
-1920,Beijing,,China,harishsk@users.noreply.github.com,Harish Kulkarni,28800,8
-1929,London,,United Kingdom,harishsk@users.noreply.github.com,Harish Kulkarni,0,0
-420,Indianapolis,IN,United States,harsh.savergaonkar@gmail.com,Harsh Savergaonkar,-19080,-5.3
-1161,Beijing,,China,hichem.aichour@gmail.com,Hichem Zakaria Aichour,28800,8
-14,Bangkok,,Thailand,immo@landwerth.net,Immo Landwerth,25200,7
-0,Bangkok,,Thailand,immol@microsoft.com,Immo Landwerth,25200,7
-44,Bangkok,,Thailand,Ivanidze.kirov@gmail.com,Ivan Matantsev,25200,7
-563,Beijing,,China,Ivanidze.kirov@gmail.com,Ivan Matantsev,28800,8
-2523,Beijing,,China,jeffhandley@users.noreply.github.com,Jeff Handley,28800,8
-2534,Bangkok,,Thailand,jeffhandley@users.noreply.github.com,Jeff Handley,25200,7
-25,Seattle,WA,United States,jessebenson@users.noreply.github.com,Jesse Benson,25200,7
-344,Bangkok,,Thailand,jignparm@microsoft.com,jignparm,25200,7
-594,London,,United Kingdom,jignparm@microsoft.com,jignparm,0,0
-727,Beijing,,China,jignparm@microsoft.com,jignparm,28800,8
-729,Beijing,,China,jongalloway@gmail.com,Jon Galloway,28800,8
-206,Anchorage,AK,United States,jongkeun.kr@gmail.com,Jongkuen Hong,-32400,-9
-499,Moscow,,Russia,jorgeluizandrade@outlook.com,Jorge Luiz,10800,3
-109,Bangkok,,Thailand,justinormont@users.noreply.github.com,Justin Ormont,25200,7
-800,Beijing,,China,justinormont@users.noreply.github.com,Justin Ormont,28800,8
-117,Abu Dhabi,,United Arab Emirates,jwood803@users.noreply.github.com,Jon Wood,14400,4
-521,New Delhi,,India,jwood803@users.noreply.github.com,Jon Wood,18000,5
-2485,TBD,,TBD,kabat@keng.cz,Miroslav Kabát,-7200,-2
-952,Chicago,IL,United States,kant2002@gmail.com,Andrey Kurdyumov,-21600,-6
-2649,Indianapolis,IN,United States,kartikey.zen@gmail.com,KKghub,-19080,-5.3
-46,Redmond,WA,United States,kcwalina@microsoft.com,Krzysztof Cwalina,25200,7
-2406,Beijing,,China,kerenfuentes313@gmail.com,Keren Fuentes,28800,8
-2206,Moscow,,Russia,kevencarneiro@outlook.com,Keven Carneiro,10800,3
-2310,Bangkok,,Thailand,klausmh@microsoft.com,klausmh,25200,7
-1849,Bangkok,,Thailand,KsenijaS@users.noreply.github.com,Ksenija Stanojevic,25200,7
-30,San Francisco,CA,United States,Ky7m@users.noreply.github.com,Igor Fesenko,-10800,-3
-2337,Moscow,,Russia,letticia.nicoli@gmail.com,Letticia Nicoli,10800,3
-2302,Bangkok,,Thailand,lisahua46@gmail.com,Lisa Hua,25200,7
-2442,TBD,,TBD,luigi.generale@gmail.com,darth-vader-lg,-7200,-2
-1988,TBD,,TBD,maher.jendoubi@gmail.com,Maher Jendoubi,-3600,-1
-1393,Bangkok,,Thailand,mail@marcinjuraszek.com,Marcin Juraszek,25200,7
-407,Bangkok,,Thailand,mairaw@microsoft.com,Maira Wenzel,25200,7
-57,Bangkok,,Thailand,mandyshieh@users.noreply.github.com,mandyshieh,25200,7
-778,TBD,,TBD,mareklinka@users.noreply.github.com,Marek Linka,-3600,-1
-24,Vancouver,,Canada,maryam.ariyan@microsoft.com,Maryam Ariyan,25200,7
-1030,Beijing,,China,maryam.ariyan@microsoft.com,Maryam Ariyan,28800,8
-1160,London,,United Kingdom,maryam.ariyan@microsoft.com,Maryam Ariyan,0,0
-484,TBD,,TBD,matei.oltean@gmail.com,Matei13,-3600,-1
-687,London,,United Kingdom,mathy@outlook.com,Mathivanan Palanisamy,0,0
-717,TBD,,TBD,mboos@outlook.com,Martin Boos,-3600,-1
-388,TBD,,TBD,me@daxaholic.com,Aaron Kunz,-7200,-2
-2434,Anchorage,AK,United States,metr0jw@naver.com,Jiwoon Lee,-32400,-9
-167,TBD,,TBD,misic.bojan@gmail.com,Bojan Misic,-7200,-2
-533,TBD,,TBD,misic.bojan@gmail.com,Bojan Misic,-3600,-1
-2439,Bangkok,,Thailand,mmitche@microsoft.com,Matt Mitchell,25200,7
-2561,Abu Dhabi,,United Arab Emirates,mongeon@users.noreply.github.com,Gabriel,14400,4
-2037,TBD,,TBD,mubal@microsoft.com,Mustafa Bal,-10800,-3
-37,Bellevue,WA,United States,mzs@microsoft.com,Zeeshan Siddiqui,25200,7
-619,Beijing,,China,mzs@microsoft.com,Zeeshan Siddiqui,28800,8
-993,New Delhi,,India,mzs@microsoft.com,Zeeshan Siddiqui,18000,5
-345,Bangkok,,Thailand,najeeb.kazmi@gmail.com,Najeeb Kazmi,25200,7
-548,Beijing,,China,najeeb.kazmi@gmail.com,Najeeb Kazmi,28800,8
-1583,Bangkok,,Thailand,nakersha@microsoft.com,Nat Kershaw (MSFT),25200,7
-1942,Beijing,,China,nakersha@microsoft.com,Nat Kershaw (MSFT),28800,8
-433,Indianapolis,IN,United States,nihitb06.dev@gmail.com,nihitb06,-19080,-5.3
-470,Indianapolis,IN,United States,nild2141@gmail.com,Niladri Dutta,-19080,-5.3
-3,Bangkok,,Thailand,noreply@github.com,GitHub,25200,7
-13,New Delhi,,India,noreply@github.com,GitHub,18000,5
-151,Abu Dhabi,,United Arab Emirates,noreply@github.com,GitHub,14400,4
-170,London,,United Kingdom,noreply@github.com,GitHub,0,0
-357,TBD,,TBD,noreply@github.com,GitHub,-7200,-2
-522,Beijing,,China,noreply@github.com,GitHub,28800,8
-542,Dhakar,,Senegal,noreply@github.com,GitHub,21600,6
-744,TBD,,TBD,noreply@github.com,GitHub,-3600,-1
-1594,Melbourne,,Australia,noreply@github.com,GitHub,36000,10
-1711,Redmond,WA,United States,noreply@github.com,GitHub,-28800,-8
-2037,TBD,,TBD,noreply@github.com,GitHub,-10800,-3
-426,TBD,,TBD,oleksandr.manyk@gmail.com,f1x3d,-10800,-3
-16,Bellevue,,United States,oliag@microsoft.com,Olia Gavrysh,25200,7
-938,London,,United Kingdom,paul.freedman19@googlemail.com,PaulTFreedman,0,0
-1697,Bangkok,,Thailand,pduggasani3@gatech.edu,PranovD,25200,7
-386,TBD,,TBD,petr.kulikov@gmail.com,Petr Kulikov,-7200,-2
-459,London,,United Kingdom,piepellegrin@gmail.com,Pierre,0,0
-1856,Bangkok,,Thailand,pieths.dev@gmail.com,pieths,25200,7
-2053,Beijing,,China,pieths.dev@gmail.com,pieths,28800,8
-1797,New Delhi,,India,poornima.kumar@intel.com,Poornima Kumar,18000,5
-2475,TBD,,TBD,premek.vysoky@microsoft.com,Přemek Vysoký,-7200,-2
-2422,Beijing,,China,prgovi@microsoft.com,Prashanth Govindarajan,28800,8
-2427,Bangkok,,Thailand,prgovi@microsoft.com,Prashanth Govindarajan,25200,7
-2366,TBD,,TBD,ptelman@users.noreply.github.com,Piotr Telman,-3600,-1
-71,TBD,,TBD,rantri@gmail.com,rantri,-10800,-3
-75,TBD,,TBD,rantri@gmail.com,Ran Trifon,-10800,-3
-547,TBD,,TBD,rantri@gmail.com,Ran Trifon,-7200,-2
-428,TBD,,TBD,rauhs@users.noreply.github.com,Andre R,-7200,-2
-1316,TBD,,TBD,rauhs@users.noreply.github.com,Andre R,-3600,-1
-2656,London,,United Kingdom,rgesteves@gmail.com,R. G. Esteves,0,0
-2429,TBD,,TBD,ro.windey@gmail.com,Robin Windey,-7200,-2
-90,Bangkok,,Thailand,rogan.carr@hotmail.com,Rogan Carr,25200,7
-573,Beijing,,China,rogan.carr@hotmail.com,Rogan Carr,28800,8
-116,TBD,,TBD,ross-p-smith@users.noreply.github.com,Ross Smith,-3600,-1
-179,Bangkok,,Thailand,safern@microsoft.com,Santiago Fernandez Madero,25200,7
-890,Beijing,,China,safern@microsoft.com,Santiago Fernandez Madero,28800,8
-1951,Beijing,,China,sam.harwell@microsoft.com,Sam Harwell,28800,8
-2190,Bangkok,,Thailand,sam.harwell@microsoft.com,Sam Harwell,25200,7
-161,New Delhi,,India,sam@tunnelvisionlabs.com,Sam Harwell,18000,5
-852,Dhakar,,Senegal,sam@tunnelvisionlabs.com,Sam Harwell,21600,6
-62,Bangkok,,Thailand,sandy@xamarin.com,Sandy Armstrong,25200,7
-1,San Diego,CA,United States,sanfordarmstrong@gmail.com,Sandy Armstrong,25200,7
-122,Bangkok,,Thailand,sfilipi@users.noreply.github.com,Senja Filipi,25200,7
-531,Beijing,,China,sfilipi@users.noreply.github.com,Senja Filipi,28800,8
-26,Berlin,,Germany,sforkmann@gmail.com,Steffen Forkmann,-7200,-2
-2472,Abu Dhabi,,United Arab Emirates,shaggygi97@gmail.com,Greg Ingram,14400,4
-134,Abu Dhabi,,United Arab Emirates,shauheen@users.noreply.github.com,Shauheen,14400,4
-210,Bangkok,,Thailand,shauheen@users.noreply.github.com,Shauheen,25200,7
-552,Beijing,,China,shauheen@users.noreply.github.com,Shauheen,28800,8
-356,Bangkok,,Thailand,shmoradi@microsoft.com,Shahab Moradi,25200,7
-463,Abu Dhabi,,United Arab Emirates,shmoradi@microsoft.com,Shahab Moradi,14400,4
-538,New Delhi,,India,shmoradi@microsoft.com,Shahab Moradi,18000,5
-4,Bangkok,,Thailand,shzahira@microsoft.com,Shauheen Zahirazami,25200,7
-1746,Bangkok,,Thailand,sierrajadelee@gmail.com,Sierra Lee,25200,7
-391,Bangkok,,Thailand,singlis@microsoft.com,Scott Inglis,25200,7
-709,Beijing,,China,singlis@microsoft.com,Scott Inglis,28800,8
-36,Abu Dhabi,,United Arab Emirates,Sorrien@users.noreply.github.com,Collin Sparks,14400,4
-779,New Delhi,,India,stoub@microsoft.com,Stephen Toub,18000,5
-2435,Abu Dhabi,,United Arab Emirates,stoub@microsoft.com,Stephen Toub,14400,4
-479,Indianapolis,IN,United States,suhail.singhyo@gmail.com,Suhail Singh Bains,-19080,-5.3
-398,Bangkok,,Thailand,tagoo@outlook.com,Tanner Gooding,25200,7
-2540,Bangkok,,Thailand,tarekms@microsoft.com,Tarek Mahmoud Sayed,25200,7
-1466,TBD,,TBD,tauheedul@gmail.com,Tauheedul,-3600,-1
-207,Bangkok,,Thailand,t-brlui@microsoft.com,Brian Lui,25200,7
-481,TBD,,TBD,tero@nullspace.eu,Tero Paloheimo,-10800,-3
-483,TBD,,TBD,tero@nullspace.eu,Tero Paloheimo,-7200,-2
-56,Bellevue,WA,United States,tfinley@gmail.com,Tom Finley,25200,7
-523,Beijing,,China,tfinley@gmail.com,Tom Finley,28800,8
-404,Chicago,IL,United States,ThePiranha@users.noreply.github.com,Sabah Shariq,-21600,-6
-2481,TBD,,TBD,thoron@users.noreply.github.com,Thomas,-7200,-2
-452,TBD,,TBD,timitoc@yahoo.com,Timi,-10800,-3
-60,TBD,,TBD,tincann@users.noreply.github.com,Morten,-7200,-2
-184,TBD,,TBD,tolik.solyar@gmail.com,Anatoliy Solyar,-7200,-2
-853,TBD,,TBD,tom@hvitved.com,Tom Hvitved,-3600,-1
-1753,Bangkok,,Thailand,t-rakri@microsoft.com,Rayan-Krishnan,25200,7
-101,Bangkok,,Thailand,tyclintw@microsoft.com,tyclintw,25200,7
-1782,TBD,,TBD,urimr26cat@gmail.com,Oriol Mesa,-7200,-2
-1997,TBD,,TBD,ussr.specter@gmail.com,irkan-hadi,-14400,-4
-100,TBD,,TBD,veikko_e@hotmail.com,Veikko Eeva,-10800,-3
-1615,Bangkok,,Thailand,wechi@microsoft.com,Wei-Sheng Chin,25200,7
-2323,Abu Dhabi,,United Arab Emirates,woodjon@gmail.com,Jon Wood,14400,4
-34,Moscow,,Russia,wowa.zym@gmail.com,Volodymyr Tsymbalistyi,-10800,-3
-376,Bangkok,,Thailand,wschin@outlook.com,Wei-Sheng Chin,25200,7
-524,Beijing,,China,wschin@outlook.com,Wei-Sheng Chin,28800,8
-53,Redmond,WA,United States,xadupre@users.noreply.github.com,Xavier Dupré,-7200,-2
-413,Bangkok,,Thailand,xiangyang.guo@intel.com,Xiangyang (Mark) Guo,25200,7
-2520,Beijing,,China,xiaoyuz@microsoft.com,Xiaoyun Zhang,28800,8
-2535,Bangkok,,Thailand,xiaoyuz@microsoft.com,Xiaoyun Zhang,25200,7
-2629,London,,United Kingdom,xiaoyuz@microsoft.com,Xiaoyun Zhang,0,0
-32,Bangkok,,Thailand,yaeld@microsoft.com,Yael Dekel,25200,7
-522,Beijing,,China,yaeld@microsoft.com,Yael Dekel,28800,8
-1980,TBD,,TBD,yaeld@microsoft.com,Yael Dekel,-7200,-2
-2198,TBD,,TBD,yaeld@microsoft.com,Yael Dekel,-10800,-3
-19,Anchorage,AK,United States,yamachu.dev@gmail.com,Yusuke Yamada,-32400,-9
-2348,Redmond,WA,United States,yeeyang19@users.noreply.github.com,yeeyang19,-28800,-8
-2305,Redmond,WA,United States,yingyuanxiang34@sina.com,Yuanxiang Ying,-28800,-8
-2589,TBD,,TBD,youssefvictor00@gmail.com,Youssef Victor,-7200,-2
+,city,country,email,name,state,timezone,timezone_hours
+0,Bangkok,Thailand,rlander@microsoft.com,Rich Lander,,25200,7.0
+1,Bangkok,Thailand,piotrp@microsoft.com,Piotr Puszkiewicz,,25200,7.0
+2,Bangkok,Thailand,mnaggaga@microsoft.com,Maria Naggaga Nakanwagi,,25200,7.0
+3,Bangkok,Thailand,maria.naggaga@live.ca,LadyNaggaga,,25200,7.0
+6,Abu Dhabi,United Arab Emirates,maria.naggaga@live.ca,LadyNaggaga,,14400,4.0
+12,Praia,Cape Verde,andrew_de_rozario@hotmail.com,Andrew,,-3600,-1.0
+14,Nuuk,Greenland,2716316+weitzhandler@users.noreply.github.com,Shimmy,,-7200,-2.0
+18,New Delhi,India,maria.naggaga@live.ca,LadyNaggaga,,18000,5.0
+20,Redmond,United States,kexybiscuit@outlook.com,Kexy Biscuit,WA,-28800,-8.0
+21,Dhakar,Senegal,morgan.wm5@gmail.com,Morgan Watson-Morris,,21600,6.0
+23,Beijing,China,jonsequeira@gmail.com,Jon Sequeira,,28800,8.0
+25,Beijing,China,Keboo@users.noreply.github.com,Kevin B,,28800,8.0
+28,Abu Dhabi,United Arab Emirates,maria.naggaga@live.ca,Maria Naggaga,,14400,4.0
+43,Bangkok,Thailand,maria.naggaga@live.ca,Maria Naggaga,,25200,7.0
+47,Bangkok,Thailand,zawhtut@users.noreply.github.com,zawhtut,,25200,7.0
+48,Bangkok,Thailand,jonsequeira@gmail.com,Jon Sequeira,,25200,7.0
+50,Abu Dhabi,United Arab Emirates,wiwagn@microsoft.com,Bill Wagner,,14400,4.0
+57,Bangkok,Thailand,dotnet-bot@dotnetfoundation.org,dotnet bot,,25200,7.0
+61,Bangkok,Thailand,brettfo@microsoft.com,Brett V. Forsgren,,25200,7.0
+66,London,United Kingdom,Ravi.Chande@microsoft.com,Ravi Chande,,0,0.0
+71,Nuuk,Greenland,dvdstelt@gmail.com,Dennis,,-7200,-2.0
+80,Bangkok,Thailand,dicolomb@microsoft.com,Diego,,25200,7.0
+81,London,United Kingdom,Diego.Colombo@microsoft.com,Diego Colombo,,0,0.0
+86,Bangkok,Thailand,justinormont@users.noreply.github.com,Justin Ormont,,25200,7.0
+87,Bangkok,Thailand,rchande@microsoft.com,Ravi Chande,,25200,7.0
+88,Bangkok,Thailand,akagarw@microsoft.com,Akshita,,25200,7.0
+98,Bangkok,Thailand,akagarw@microsoft.com,Akshita Agarwal,,25200,7.0
+102,Praia,Cape Verde,colombod@me.com,Diego,,-3600,-1.0
+104,Praia,Cape Verde,dicolomb@microsoft.com,Diego,,-3600,-1.0
+342,London,United Kingdom,49699333+dependabot[bot]@users.noreply.github.com,dependabot[bot],,0,0.0
+406,Dhakar,Senegal,brettfo@microsoft.com,Brett V. Forsgren,,21600,6.0
+412,New Delhi,India,eerhardt@microsoft.com,Eric Erhardt,,18000,5.0
+414,Nuuk,Greenland,dicolomb@microsoft.com,Diego,,-7200,-2.0
+416,New Delhi,India,eric.erhardt@microsoft.com,Eric Erhardt,,18000,5.0
+627,Bangkok,Thailand,lol.tihan@gmail.com,TIHan,,25200,7.0
+709,Bangkok,Thailand,lol.tihan@gmail.com,Will Smith,,25200,7.0
+762,London,United Kingdom,dotnet-maestro[bot]@users.noreply.github.com,dotnet-maestro[bot],,0,0.0
+806,Bangkok,Thailand,codecutter@hotmail.com,Kevin Ransom (msft),,25200,7.0
+845,Bangkok,Thailand,codecutter@hotmail.com,Kevin Ransom,,25200,7.0
+864,Redmond,United States,xu.zl@live.com,Zhiliang Xu,WA,-28800,-8.0
+865,Nuuk,Greenland,jonsequeira@gmail.com,Jon Sequeira,,-7200,-2.0
+881,Abu Dhabi,United Arab Emirates,maria.naggaga@live.ca,ladynaggaga,,14400,4.0
+909,Bangkok,Thailand,phcart@microsoft.com,Phillip Carter,,25200,7.0
+912,Bangkok,Thailand,pcarter@fastmail.com,Phillip Carter,,25200,7.0
+922,London,United Kingdom,dicolomb@microsoft.com,Diego,,0,0.0
+943,,,msynk@outlook.com,Saleh Yusefnejad,,-11880,-3.3
+951,Beijing,China,42748379+dotnet-maestro[bot]@users.noreply.github.com,dotnet-maestro[bot],,28800,8.0
+952,Anchorage,United States,yamachu.dev@gmail.com,yamachu,AK,-32400,-9.0
+958,Beijing,China,lol.tihan@gmail.com,TIHan,,28800,8.0
+981,Beijing,China,codecutter@hotmail.com,Kevin Ransom,,28800,8.0
+986,New Delhi,India,pcarter@fastmail.com,Phillip Carter,,18000,5.0
+997,Dhakar,Senegal,eric.erhardt@microsoft.com,Eric Erhardt,,21600,6.0
+1029,Praia,Cape Verde,erik_schierboom@hotmail.com,Erik Schierboom,,-3600,-1.0
+1032,Beijing,China,prgovi@microsoft.com,Prashanth Govindarajan,,28800,8.0
+1041,Beijing,China,pcarter@fastmail.com,Phillip Carter,,28800,8.0
+1043,London,United Kingdom,colombod@me.com,Diego,,0,0.0
+1044,,,talanc@users.noreply.github.com,talanc,,-39600,-11.0
+1073,Beijing,China,brettfo@microsoft.com,Brett V. Forsgren,,28800,8.0
+1090,Beijing,China,chris@immortalcreation.com,Christopher Nikkel,,28800,8.0
+1100,Beijing,China,codecutter.fsharp@hotmail.com,Kevin Ransom,,28800,8.0
+1132,Beijing,China,codecutter@hotmail.com,Kevin Ransom (msft),,28800,8.0
+1138,London,United Kingdom,dsyme@users.noreply.github.com,Don Syme,,0,0.0
+1200,Beijing,China,dongbow@microsoft.com,Dongbo Wang,,28800,8.0
+1269,London,United Kingdom,42748379+dotnet-maestro[bot]@users.noreply.github.com,dotnet-maestro[bot],,0,0.0
+1276,New Delhi,India,maria.naggaga@live.ca,ladynaggaga,,18000,5.0
+1284,New Delhi,India,jonsequeira@gmail.com,Jon Sequeira,,18000,5.0
+1352,Beijing,China,tylerl0706@gmail.com,Tyler James Leonhardt,,28800,8.0
+1365,Beijing,China,43417619+SydneyhSmith@users.noreply.github.com,Sydney Smith,,28800,8.0
+1375,Beijing,China,tylerl0706@gmail.com,Tyler Leonhardt,,28800,8.0
+1612,Bangkok,Thailand,tylerl0706@gmail.com,Tyler Leonhardt,,25200,7.0
+1616,Bangkok,Thailand,dongbow@microsoft.com,Dongbo Wang,,25200,7.0
+1667,Bangkok,Thailand,tylerl0706@gmail.com,Tyler James Leonhardt,,25200,7.0
+1668,Abu Dhabi,United Arab Emirates,mnaggaga@microsoft.com,Maria Naggaga Nakanwagi,,14400,4.0
+1689,Bangkok,Thailand,mmitche@microsoft.com,Matt Mitchell,,25200,7.0
+1775,Bangkok,Thailand,42748379+dotnet-maestro[bot]@users.noreply.github.com,dotnet-maestro[bot],,25200,7.0
+1780,Bangkok,Thailand,codecutter.fsharp@hotmail.com,Kevin Ransom (msft),,25200,7.0
+2224,Bangkok,Thailand,4172652+grepme2001@users.noreply.github.com,grepme2001,,25200,7.0
+2293,Nuuk,Greenland,alexandair@live.com,Aleksandar Nikolić,,-7200,-2.0
+2299,Bangkok,Thailand,t-chenju@microsoft.com,Justin Chen,,25200,7.0
+2324,Bangkok,Thailand,justin99chen@gmail.com,Justin Chen,,25200,7.0
+2366,Nuuk,Greenland,zeljko.brkic@gmail.com,Željko Brkić,,-7200,-2.0
+2429,Bangkok,Thailand,jmarolf@users.noreply.github.com,Jonathon Marolf,,25200,7.0
+2436,Abu Dhabi,United Arab Emirates,scott@corgibytes.com,M. Scott Ford,,14400,4.0
+2501,Praia,Cape Verde,nhirschey@users.noreply.github.com,nhirschey,,-3600,-1.0
+2507,Praia,Cape Verde,dsyme@microsoft.com,Don Syme,,-3600,-1.0
+2523,Bangkok,Thailand,Keboo@users.noreply.github.com,Kevin B,,25200,7.0
+2527,London,United Kingdom,badger@gitter.im,The Gitter Badger,,0,0.0
+2529,Bangkok,Thailand,sharma.loic@gmail.com,Loïc Sharma,,25200,7.0
+2534,Praia,Cape Verde,colombod@me.com,Diego Colombo,,-3600,-1.0
+2586,Praia,Cape Verde,dsyme@users.noreply.github.com,Don Syme,,-3600,-1.0
+2588,New Delhi,India,scoundrel@gmail.com,Kevin Miller,,18000,5.0
+2594,Praia,Cape Verde,dicolomb@microsoft.com,Diego Colombo,,-3600,-1.0
+2604,Nuuk,Greenland,ben.simkins@gmail.com,Benjol,,-7200,-2.0
+2671,Bangkok,Thailand,codecutter.fsharp@hotmail.com,Kevin Ransom,,25200,7.0
+2674,Praia,Cape Verde,470455+paulomorgado@users.noreply.github.com,Paulo Morgado,,-3600,-1.0
+2675,Nuuk,Greenland,krauthaufen@awx.at,Georg Haaser,,-7200,-2.0
+2676,Bangkok,Thailand,codecutter@Hotmail,KevinRansom,,25200,7.0
+2678,Nuuk,Greenland,vzaritovsky@hotmail.com,Vlad Zarytovskii,,-7200,-2.0
+2734,Bangkok,Thailand,codecutter@hotmail.com,KevinRansom,,25200,7.0
+2740,Praia,Cape Verde,mike.larah@endjin.com,MikeLarah,,-3600,-1.0
+2796,Chicago,United States,kant2002@gmail.com,Andrii Kurdiumov,IL,-21600,-6.0
+2802,Beijing,China,codecutter@hotmail.com,KevinRansom,,28800,8.0
+2803,Beijing,China,lol.tihan@gmail.com,Will Smith,,28800,8.0
+2819,London,United Kingdom,dicolomb@microsoft.com,Diego Colombo,,0,0.0
+2822,São Paulo,Brazil,arkada38@outlook.com,Arkadiy,,-10800,-3.0
+2849,Dhakar,Senegal,chris@superhappysoftware.com,superhappychris,,21600,6.0
+2853,Beijing,China,737941+loic-sharma@users.noreply.github.com,Loïc Sharma,,28800,8.0
+2866,New Delhi,India,zyzhu@users.noreply.github.com,Zhenyong Zhu,,18000,5.0
+2871,London,United Kingdom,colombod@me.com,Diego Colombo,,0,0.0
+2885,Beijing,China,broneill@microsoft.com,Brian O'Neill,,28800,8.0
+2886,Beijing,China,halter73@gmail.com,Stephen Halter,,28800,8.0
+2910,London,United Kingdom,Ian.Griffiths@endjin.com,Ian Griffiths,,0,0.0
+2936,Beijing,China,corivera@microsoft.com,Cory Rivera,,28800,8.0
+2940,Beijing,China,dotnet-bot@dotnetfoundation.org,dotnet bot,,28800,8.0
+2965,Beijing,China,luczhan@microsoft.com,Lucy Zhang,,28800,8.0
+2974,Dhakar,Senegal,csganapathiraju@hotmail.com,Sadhana G,,21600,6.0
+3104,Nuuk,Greenland,youssefvictor00@gmail.com,Youssef Victor,,-7200,-2.0
+3128,São Paulo,Brazil,lev.brovchenkov@gmail.com,WhiteBlackGoose,,-10800,-3.0
+3159,São Paulo,Brazil,wbg@angouri.org,WhiteBlackGoose,,-10800,-3.0
+3213,Nuuk,Greenland,alexander.stracker@sos-kd.org,Alex Stracker,,-7200,-2.0
+3266,Abu Dhabi,United Arab Emirates,angleqian01@gmail.com,Angle Qian,,14400,4.0
+3270,Bangkok,Thailand,cerasamson@gmail.com,Cera Samson,,25200,7.0
+3294,Bangkok,Thailand,pcarter@fastmail.com,cartermp,,25200,7.0
+3332,Abu Dhabi,United Arab Emirates,maria.naggaga@live.ca,Maria N,,14400,4.0
+3347,Nuuk,Greenland,colombod@me.com,Diego Colombo,,-7200,-2.0
+3368,Praia,Cape Verde,colombod@me.com,colombod,,-3600,-1.0
+3375,Bangkok,Thailand,mikemort@microsoft.com,Mike Morton,,25200,7.0
+3401,Bangkok,Thailand,don.jayamanne@yahoo.com,Don Jayamanne,,25200,7.0
+3519,Bangkok,Thailand,63619224+JustinMDotNet@users.noreply.github.com,Justin M,,25200,7.0
+3595,Dhakar,Senegal,42748379+dotnet-maestro[bot]@users.noreply.github.com,dotnet-maestro[bot],,21600,6.0
+3597,São Paulo,Brazil,MoaidHathot@users.noreply.github.com,Moaid Hathot,,-10800,-3.0
+3605,Bangkok,Thailand,chgagnon@microsoft.com,chgagnon,,25200,7.0
+3607,Bangkok,Thailand,chgagnon@microsoft.com,Charles Gagnon,,25200,7.0
+3620,Nuuk,Greenland,91743470+dkurepa@users.noreply.github.com,dkurepa,,-7200,-2.0
+3622,Bangkok,Thailand,jofortes@microsoft.com,Jon Fortescue,,25200,7.0
+3652,Bangkok,Thailand,makoripa@microsoft.com,Madhuri Koripalli,,25200,7.0
+3729,Beijing,China,chgagnon@microsoft.com,chgagnon,,28800,8.0
+3730,Beijing,China,wayo.cavazos@gmail.com,dharmatech,,28800,8.0
+3738,Beijing,China,wayo.cavazos@gmail.com,Eduardo Cavazos,,28800,8.0
+3773,Praia,Cape Verde,Francois-David.Collin@umontpellier.fr,François-David Collin,,-3600,-1.0
+3784,Beijing,China,clregio@microsoft.com,claudiaregio,,28800,8.0
+3807,Beijing,China,mmitche@microsoft.com,Matt Mitchell,,28800,8.0
+3841,Praia,Cape Verde,jan@tesar.tech,tesar-tech,,-3600,-1.0
+3857,,,alireza@rezaee.org,Alireza Rezaee,,-11880,-3.3
+3866,Bangkok,Thailand,halter73@gmail.com,Stephen Halter,,25200,7.0
+3870,,,david@gardiner.net.au,David Gardiner,,-37080,-10.3
+3880,Abu Dhabi,United Arab Emirates,olivier.lavoie@nosotech.com,Olivier Lavoie,,14400,4.0
+3882,Bangkok,Thailand,corivera@microsoft.com,Cory Rivera,,25200,7.0
+3911,Abu Dhabi,United Arab Emirates,eaandersen@users.noreply.github.com,Eric Axel Andersen,,14400,4.0
+3924,Redmond,United States,inbreaks@gmail.com,Le Ding,WA,-28800,-8.0
+3987,Abu Dhabi,United Arab Emirates,65685447+bmitc@users.noreply.github.com,bmitc,,14400,4.0
+3991,Bangkok,Thailand,shibanib@microsoft.com,Shibani Basava,,25200,7.0
+3999,Bangkok,Thailand,shibbas@users.noreply.github.com,shibbas,,25200,7.0
+4015,Bangkok,Thailand,MattGal@users.noreply.github.com,Matt Galbraith,,25200,7.0
+4020,Nuuk,Greenland,18668118+jasiozet@users.noreply.github.com,Jan Zalewski,,-7200,-2.0
+4072,Bangkok,Thailand,52120764+ambrose-leung@users.noreply.github.com,ambrose-leung,,25200,7.0
+4083,London,United Kingdom,shalokshalom@protonmail.ch,ShalokShalom,,0,0.0
+4169,Bangkok,Thailand,clregio@microsoft.com,claudiaregio,,25200,7.0
+4180,Beijing,China,shibbas@users.noreply.github.com,shibbas,,28800,8.0
+4188,Redmond,United States,marcinwol@gmail.com,moneroexamples,WA,-28800,-8.0
+4220,Dhakar,Senegal,glenncarr@gmail.com,Glenn Carr,,21600,6.0
+4222,New Delhi,India,steve.ognibene@namely.com,Steve Ognibene,,18000,5.0
+4291,Redmond,United States,weihanli@outlook.com,Weihan Li,WA,-28800,-8.0
+4296,Beijing,China,aajohn@microsoft.com,Abhitej John,,28800,8.0
+4372,Beijing,China,gnamboo@microsoft.com,Shyam Namboodiripad,,28800,8.0
+4373,Beijing,China,shyamnamboodiripad@users.noreply.github.com,Shyam N,,28800,8.0
+4397,Praia,Cape Verde,1271555+surfmuggle@users.noreply.github.com,surfmuggle,,-3600,-1.0
+4403,Praia,Cape Verde,51711029+marckruzik@users.noreply.github.com,Marc Kruzik,,-3600,-1.0
+4427,Beijing,China,jbilinski@users.noreply.github.com,Jamie Bilinski,,28800,8.0
+4436,Beijing,China,aajohn@microsoft.com,Abhitej John Bandi,,28800,8.0
+4449,Beijing,China,oscalles@microsoft.com,Osvaldo Calles,,28800,8.0
+4491,Bangkok,Thailand,gnamboo@microsoft.com,Shyam Namboodiripad,,25200,7.0
+4498,Bangkok,Thailand,shyamnamboodiripad@users.noreply.github.com,Shyam N,,25200,7.0
+4503,Bangkok,Thailand,aajohn@microsoft.com,Abhitej John Bandi,,25200,7.0
+4504,Bangkok,Thailand,aajohn@microsoft.com,Abhitej John,,25200,7.0
+4520,Sydney,Australia,blair@theunfocused.net,Blair McBride,,-46800,-13.0
+0,Bangkok,Thailand,noreply@github.com,GitHub,,25200,7.0
+6,Abu Dhabi,United Arab Emirates,noreply@github.com,GitHub,,14400,4.0
+12,Praia,Cape Verde,noreply@github.com,GitHub,,-3600,-1.0
+14,Nuuk,Greenland,noreply@github.com,GitHub,,-7200,-2.0
+18,New Delhi,India,noreply@github.com,GitHub,,18000,5.0
+20,Redmond,United States,noreply@github.com,GitHub,WA,-28800,-8.0
+21,Dhakar,Senegal,noreply@github.com,GitHub,,21600,6.0
+23,Beijing,China,noreply@github.com,GitHub,,28800,8.0
+342,London,United Kingdom,noreply@github.com,GitHub,,0,0.0
+943,,,noreply@github.com,GitHub,,-11880,-3.3
+1044,,,noreply@github.com,GitHub,,-39600,-11.0
