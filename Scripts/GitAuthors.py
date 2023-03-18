@@ -80,6 +80,9 @@ def guess_city(row):
 
 
 def identify_authors(commits_file_path='Commits.csv', output_file_path='Authors.csv'):
+    """
+    Builds a dataset of unique authors from all commits in the project
+    """
     print('Reading commit data from ' + commits_file_path)
     df = pd.read_csv(commits_file_path)
 
