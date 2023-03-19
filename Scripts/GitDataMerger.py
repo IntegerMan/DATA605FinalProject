@@ -10,6 +10,8 @@ def extract_file_information(row, df_commits=None):
     num_deletes = 0
     frequent_author = 'Unknown'
     num_authors = 1
+    initial_commit = None
+    latest_commit = None
 
     try:
         matching = df_commits.query('new_path == "' + path + '"')
@@ -21,6 +23,11 @@ def extract_file_information(row, df_commits=None):
         frequent_authors = authors.mode()
         frequent_author = frequent_authors.iat[0]
         num_authors = len(authors.distinct())
+
+        # Extract date information
+        dates = matching['author_date']
+        initial_commit = dates.iat[0]
+        latest_commit = dates.iat[len(dates) - 1]
 
         # Extract commit information
         num_commits = len(authors)
@@ -35,6 +42,8 @@ def extract_file_information(row, df_commits=None):
     row['Latest Author'] = latest_author
     row['Most Frequent Author'] = frequent_author
     row['Unique Authors'] = num_authors
+    row['Initial Commit'] = initial_commit
+    row['Latest Commit'] = latest_commit
     row['Total Commits'] = num_commits
     row['Total Inserts'] = num_inserts
     row['Total Deletes'] = num_deletes
