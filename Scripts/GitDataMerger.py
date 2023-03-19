@@ -1,10 +1,55 @@
 import pandas as pd
 
+def extract_file_information(row, df_commits=None):
+    path = row['relative_path']
+
+    initial_author = 'Unknown'
+    latest_author = 'Unknown'
+    num_commits = 1
+    num_inserts = 0
+    num_deletes = 0
+    frequent_author = 'Unknown'
+    num_authors = 1
+
+    try:
+        matching = df_commits.query('new_path == "' + path + '"')
+
+        # Extract author information
+        authors = matching['author_name']
+        initial_author = authors.iat[0]
+        latest_author = authors.iat[len(authors) - 1]
+        frequent_authors = authors.mode()
+        frequent_author = frequent_authors.iat[0]
+        num_authors = len(authors.distinct())
+
+        # Extract commit information
+        num_commits = len(authors)
+        num_inserts = matching['num_inserts'].sum()
+        num_deletes = matching['num_deletes'].sum()
+    except:
+        # Sometimes information cannot be found about files due to renames or missing history
+        pass
+
+    # Add new values to row
+    row['Initial Author'] = initial_author
+    row['Latest Author'] = latest_author
+    row['Most Frequent Author'] = frequent_author
+    row['Unique Authors'] = num_authors
+    row['Total Commits'] = num_commits
+    row['Total Inserts'] = num_inserts
+    row['Total Deletes'] = num_deletes
+
+    return row
+
+
 def generate_merged_file_data(file_commits_path = 'FileCommits.csv', 
                               file_size_data_path='FileSizes.csv', 
-                              output_file = 'MergedFileData.csv'):
+                              output_file = 'MergedFileData.csv',
+                              file_data_path = 'FileData.csv'):
     """
-    Joins together file commit data and file size data into a single dataset and writes it to a CSV file
+    Joins together file commit data and file size data into a pair of denormalized data files.
+    The first focuses on the commits and file information alongside those commits.
+    The second focuses on the files and rolls commit information into those commits.
     """
     print('Loading file commit data from ' + file_commits_path)
     df_file_commits = pd.read_csv(file_commits_path)
@@ -41,6 +86,18 @@ def generate_merged_file_data(file_commits_path = 'FileCommits.csv',
     df_merged.to_csv(output_file)
     print('Merged file data created in ' + output_file)
 
+    # Load commits
+    df_file_commits.sort_values(by=['author_date'], ascending=True, inplace=True)
+
+    # Extract additional insights
+    print('Aggregating file data')
+    df_files = df_files.apply(lambda path: extract_file_information(path, df_file_commits), axis=1)
+
+    # Write the file to disk
+    print('Writing file data to ' + file_data_path)    
+    df_files.to_csv(file_data_path)
+    print('File generation completed')
+
 
 # Sample code to start working on propagating renames
 # import pandas as pd
@@ -63,3 +120,4 @@ def generate_merged_file_data(file_commits_path = 'FileCommits.csv',
 
 # df = df.apply(propagate_rename, axis=1)
 # df.head()
+
