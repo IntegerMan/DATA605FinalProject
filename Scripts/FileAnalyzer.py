@@ -6,6 +6,7 @@ import os
 source_extensions = [
     '.cs', 
     '.vb', 
+    '.py',
     '.java', 
     '.r', 
     '.agc', 
@@ -171,15 +172,18 @@ def build_file_sizes(directory, output_file_path='FileSizes.csv'):
     """
     Analyzes all source files in the given directory and its subdirectory and returns a list of analysis results
     """
-    print('Reading file metrics from ' + directory)
+    try:
+        print('Reading file metrics from ' + directory)
 
-    files = get_source_file_metrics(directory)
-    print(str(len(files)) + " source files read from " + directory)
+        files = get_source_file_metrics(directory)
+        print(str(len(files)) + " source files read from " + directory)
 
-    # Introduce an area column
-    df = pd.DataFrame(files)
-    df = df.apply(extract_area, axis=1)
+        # Introduce an area column
+        df = pd.DataFrame(files)
+        df = df.apply(extract_area, axis=1)
 
-    # Write to a file for other analyses processes
-    df.to_csv(output_file_path)
-    print('File size information saved to ' + output_file_path)
+        # Write to a file for other analyses processes
+        df.to_csv(output_file_path)
+        print('File size information saved to ' + output_file_path)
+    except FileNotFoundError:
+        print('Could not find directory ' + directory)

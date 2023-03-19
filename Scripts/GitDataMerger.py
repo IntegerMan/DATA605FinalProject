@@ -1,6 +1,8 @@
 import pandas as pd
 
-def generate_merged_data(file_commits_path = 'FileCommits.csv', file_size_data_path='FileSizes.csv', output_file = 'MergedFileData.csv'):
+def generate_merged_file_data(file_commits_path = 'FileCommits.csv', 
+                              file_size_data_path='FileSizes.csv', 
+                              output_file = 'MergedFileData.csv'):
     """
     Joins together file commit data and file size data into a single dataset and writes it to a CSV file
     """
@@ -37,4 +39,27 @@ def generate_merged_data(file_commits_path = 'FileCommits.csv', file_size_data_p
 
     # Save the resulting dataset to disk
     df_merged.to_csv(output_file)
-    print('Merged data created in ' + output_file)
+    print('Merged file data created in ' + output_file)
+
+
+# Sample code to start working on propagating renames
+# import pandas as pd
+
+# df = pd.read_csv(file_commit_data_path)
+# df.rename(columns={'Unnamed: 0': 'File_Commit_ID'}, inplace=True)
+
+# df.sort_values(by=['author_date'], ascending=False, inplace=True)
+
+# df_hasOld = df[~df['old_path'].isna()]
+# df_changed = df_hasOld.loc[df['new_path'].ne(df['old_path'])]
+# df_renames = df_changed.drop(columns=['message', 'File_Commit_ID', 'author_name', 'author_email', 'author_country', 'author_city', 'num_deletes', 'num_inserts', 'net_lines', 'project_name', 'project_path', 'filename'])
+# df_renames.head()
+# #df.to_csv(file_commits_file_path)
+
+# def propagate_rename(row):
+#     date = row['author_date']
+#     file = row['new_path']
+#     return row
+
+# df = df.apply(propagate_rename, axis=1)
+# df.head()
