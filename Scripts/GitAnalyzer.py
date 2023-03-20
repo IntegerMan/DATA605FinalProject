@@ -134,10 +134,6 @@ def analyze_repository(path, commits_file_path = 'Commits.csv',
         df_file_commits.to_csv(file_commits_file_path)
         print('Saved to ' + file_commits_file_path)
 
-        print('Correcting renames')
-        correct_renames(file_commits_file_path)
-        print('Renames compensated')
-
         print('Repository Data Pulled Successfully')
     except NoSuchPathError:
         print('Could not find path ' + path)
