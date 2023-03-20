@@ -105,14 +105,6 @@ def build_commits(repo, author_info):
 
     return (commits, file_commits)
 
-def correct_renames(file_commits_file_path):
-    df = pd.read_csv(file_commits_file_path)
-
-    df.sort_values()
-
-    df.to_csv(file_commits_file_path)
-
-
 def analyze_repository(path, commits_file_path = 'Commits.csv', 
                        file_commits_file_path = 'FileCommits.csv', 
                        num_threads=1,
